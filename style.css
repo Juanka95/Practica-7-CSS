@@ -1,0 +1,130 @@
+@font-face{
+
+      font-family: Hanalei;
+      
+      src:url(fuente/Hanalei/Hanalei-Regular.ttf)
+
+
+
+}
+
+section{
+
+    text-align: center;
+
+
+}
+h1{
+
+    font-family: 'Hanalei', sans-serif;
+    font-size: 61px;
+    text-align: center;
+
+
+}
+
+caption{
+
+    background-color: yellow;
+    color: blue;
+    font-size: 20px;
+    font-weight: 900;
+}
+
+table{
+
+    margin: auto;
+    border: 1px black solid;
+    width: 800px;
+}
+
+thead{
+
+    text-align: center;
+    font-weight: 900;
+}
+
+tr{
+
+    text-align: center;
+
+}
+
+td{
+
+    text-align: center;
+
+}
+
+table.tablados{
+
+
+    width: 1300px;
+    height: 50px;
+    
+
+}
+
+hr{
+
+    width: 700px;
+
+}
+
+table.tablatres{
+
+    width: 1000px;
+
+
+
+}
+
+tr{
+
+    text-align: center;
+
+}
+p.texto{
+
+
+    background-color: yellow;
+    color: blue;
+    font-size: 16px;
+    margin: 0px;
+    width: 1003px;
+    text-align:center;
+    font-weight: 900;
+    font-size: 20px;
+
+}
+
+table.tablatres{
+
+
+    border-collapse: collapse;
+    empty-cells: hide;
+   
+}
+
+tbody{
+
+    border: red dotted;
+
+}
+
+
+
+p.pie{
+
+    text-align: center;
+    width: 1300px;
+    height: 50px;
+    border: red double 2px;
+    margin: auto;
+    background-color: yellow;
+    color: blue;
+    font-size:20px;
+    font-weight: 900;
+    padding-top: 15px;
+    font-family: sans-serif;
+}
